@@ -1,0 +1,8 @@
+{
+  "name": "TalkHub",
+  "description": "A modern, responsive AI chatbot powered by Gemini, featuring real-time streaming responses and a sleek UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
