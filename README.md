@@ -36,8 +36,9 @@ TalkHub is a fast, full-stack AI chat application powered by the Google Gemini A
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/talkhub.git
+   git clone https://github.com/ektajamloki/talkhub.git
    cd talkhub
+   
 # TalkHub 💬🤖
 
 > **Live Demo:** [https://ais-pre-7rtmn4wwt5edxksmws5e63-31887208870.asia-southeast1.run.app](https://ais-pre-7rtmn4wwt5edxksmws5e63-31887208870.asia-southeast1.run.app)
